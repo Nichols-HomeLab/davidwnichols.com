@@ -2,7 +2,7 @@
 title: DavidNichols
 description: AI engineer focused on agentic systems, LLM applications, and applied machine learning.
 published: true
-date: 2026-05-20T19:40:33.033Z
+date: 2026-05-20T19:42:03.674Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-20T18:54:17.595Z
