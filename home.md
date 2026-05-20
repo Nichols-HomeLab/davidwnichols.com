@@ -2,7 +2,7 @@
 title: DavidNichols
 description: AI engineer focused on agentic systems, LLM applications, and applied machine learning.
 published: true
-date: 2026-05-20T18:54:20.310Z
+date: 2026-05-20T19:40:33.033Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-20T18:54:17.595Z
@@ -19,6 +19,12 @@ I work at **Invoke Inc.**, where I build practical AI tools across research auto
 - LinkedIn: [linkedin.com/in/david-nichols-cpe](https://www.linkedin.com/in/david-nichols-cpe/)
 - Location: Dallas, North Carolina
 
+# Education
+
+- **M.S. in Computer Engineering**, University of North Carolina at Charlotte
+- **B.S. in Computer Engineering**, University of North Carolina at Charlotte
+- Concentration in Machine Learning, Minor in Mathematics
+
 # What I Do
 
 My work sits at the intersection of applied AI, software engineering, and infrastructure.
@@ -28,17 +34,6 @@ My work sits at the intersection of applied AI, software engineering, and infras
 - Develop Python tooling for codebase analysis, modernization planning, and human-in-the-loop refactoring
 - Deploy AI workloads with Docker and AWS using scalable, production-oriented workflows
 - Explore local AI, vision-language systems, and multimodal applications for real-world operations
-
-# Current Role
-
-At **Invoke Inc.**, I have worked on:
-
-- Research agents and file-based discovery systems for large document collections
-- Document Q&A and enterprise knowledge workflows handling hundreds of engineering documents
-- Graph-based legacy code ingestion for upgrade analysis and modernization support
-- Industrial migration workflows, including Honeywell-to-Rockwell conversion support
-- AWS deployment planning and automation for internal AI products
-- Red-team and adversarial AI demonstrations for defense-oriented environments
 
 # Research
 
@@ -61,12 +56,7 @@ I developed software to collect and synchronize **EMG, gyroscope, accelerometer,
 
 I designed and deployed a homelab automation platform using **Docker, GitHub Actions, Ansible, and Proxmox**. The system supports VM provisioning, container deployment workflows, and validation automation, and reflects my interest in reliable infrastructure and repeatable engineering systems.
 
-# Education
-
-- **M.S. in Computer Engineering**, University of North Carolina at Charlotte
-- **B.S. in Computer Engineering**, University of North Carolina at Charlotte
-- Concentration in Machine Learning, Minor in Mathematics
 
 # Outside Work
 
-Outside of client work, I spend a lot of time building infrastructure, automating systems, and experimenting with new AI workflows in my homelab.
+Outside of client work, I spend a lot of time building infrastructure, automating systems, and experimenting with new AI workflows in my homelab, and I am a volunteer firemen.
